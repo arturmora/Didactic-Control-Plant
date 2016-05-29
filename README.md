@@ -34,7 +34,7 @@ Others:
 - 1 Motor Brushless Skyartec 1806 2200Kv (or any similar)
 - 1 Propeller 5x3 (or any that fit with your motor)
 
-any questions, write to me: arturmora@gmail.com 
+Any questions, write to me: arturmora@gmail.com 
 ;)
-by Artur Átila Moraes
+By Artur Átila Moraes
 
