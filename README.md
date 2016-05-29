@@ -1,4 +1,4 @@
-# Didactic-Control-Plant by Artur Átila Moraes
+# Didactic-Control-Plant 
 The Didactic Control Plant is my final project for my graduate in Control and Automation Engineering, at Universidade Federal de Itajubá.
 Feel free to download, share and change the code, the 3D files and the features.
 
@@ -36,4 +36,5 @@ Others:
 
 any questions, write to me: arturmora@gmail.com 
 ;)
+by Artur Átila Moraes
 
