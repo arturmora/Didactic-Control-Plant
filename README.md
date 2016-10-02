@@ -7,7 +7,7 @@ To build this project, you will need:
 Eletronics:
 - Arduino UNO
 - Shield MPU6050 (accelerometer and gyroscope)
-- 2 Shields DRV8833 (or 1 ESC for your motor, but need to chante the program)
+- 2 Shields DRV8833 (or 1 ESC for your motor, but need to change the program)
 
 Printed parts:
 - 1 Frame
